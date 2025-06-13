@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Varshith Chilagani
 
 🎯 Aspiring Data Engineer | Passionate about Big Data & Cloud Technologies  
-📍 Based in Telangana, India | Actively building & learning by doing
+📍 Based in India | Actively building & learning by doing
 
 ---
 
