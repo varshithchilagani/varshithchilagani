@@ -28,7 +28,7 @@ Projects will be added soon as I move toward hands-on implementations.
 ## 📫 Reach Me
 
 - ✉️ Gmail: varshith.de@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-link](www.linkedin.com/in/varshith-chilagani)  
+- 🔗 LinkedIn: (www.linkedin.com/in/varshith-chilagani)  
 - 🧠 GitHub: [github.com/varshithchilagani](https://github.com/varshithchilagani)
 
 ---
