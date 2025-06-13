@@ -30,6 +30,10 @@ Projects will be added soon as I move toward hands-on implementations.
 - ✉️ Gmail: varshith.de@gmail.com  
 - 🔗 LinkedIn: (www.linkedin.com/in/varshith-chilagani)  
 - 🧠 GitHub: [github.com/varshithchilagani](https://github.com/varshithchilagani)
+- 📧 [Gmail](mailto:varshith.de@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/varshith-chilagani)  
+- 💻 [GitHub](https://github.com/varshithchilagani)
+
 
 ---
 
